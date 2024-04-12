@@ -1,5 +1,5 @@
 def slice_simple():
-    texto = "Awesome"
+    texto = "Awesome".lower()
     
     print(texto[:3])
     name1=len(texto)
